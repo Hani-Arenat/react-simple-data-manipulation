@@ -1,0 +1,19 @@
+.person-box{
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px 50px;
+    border: 1px solid #919191;
+}
+
+input:focus {
+    outline: none;
+}
+
+.deleteItem{
+color:red;
+width: fit-content;
+margin:20px auto;
+font-weight: bold;
+text-decoration: underline;
+cursor: pointer;
+}

@@ -7,6 +7,30 @@
   pointer-events: none;
 }
 
+.block{
+  display: block;
+  margin: 50px auto !important;
+}
+
+.counter-class{
+    font-size: 30px;
+    margin: 10px;
+}
+
+.mt-10{
+  margin-top: 50px;
+}
+
+.persons-count{
+  margin: 30px 10px -10px 10px;
+  font-weight: bold;
+}
+.btn-class{
+  background-color: #2196F3;
+  color:white;
+  padding:2px 16px;
+  margin-left: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
